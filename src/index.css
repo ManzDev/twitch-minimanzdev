@@ -1,0 +1,14 @@
+body {
+  background: #223;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+mini-manz-dev {
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+}
